@@ -19,6 +19,8 @@ This project uses Python and K-Means clustering to group hospitals based on thei
 ## Methodology
 - Clean and preprocess hospital readmission data.
 - Calculate the average readmission ratio for each hospital.
+
+Open PDF file or download html file
 - Standardize the data using StandardScaler.
 - Apply K-Means clustering with three clusters.
 - Visualize results and export hospital cluster assignments.
